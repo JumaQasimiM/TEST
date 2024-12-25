@@ -9,4 +9,4 @@
 4. TAILWIND
 5. FETACH API
 ## FETACH API
-> I used Fetach Api for create a simple meteorology site
+  I used Fetach Api for create a simple meteorology site
