@@ -7,8 +7,9 @@
 
 1. HTML
 2. CSS
-3. JAVASCRIPT
-4. TAILWIND
-5. FETACH API
+3. 
+4. JAVASCRIPT
+5. TAILWIND
+6. FETACH API
 ## FETACH API
   >I used Fetach Api for create a simple meteorology site
