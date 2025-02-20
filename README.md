@@ -6,13 +6,14 @@
 ## Programing Language and Technologies
 
 1. HTML
-2. CSS
-3. 
-4. JAVASCRIPT
-5. 
-6. TAILWIND
-7. 
-8. FETACH API
-9. 
+2. 
+3. CSS
+4. 
+5. JAVASCRIPT
+6. 
+7. TAILWIND
+8. 
+9. FETACH API
+10. 
 ## FETACH API
   >I used Fetach Api for create a simple meteorology site
