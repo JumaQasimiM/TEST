@@ -7,7 +7,6 @@
 
 1. HTML
 3. CSS
-4. 
 5. JAVASCRIPT
 6. 
 7. TAILWIND
