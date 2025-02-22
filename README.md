@@ -6,7 +6,6 @@
 ## Programing Language and Technologies
 
 1. HTML
-2. 
 3. CSS
 4. 
 5. JAVASCRIPT
